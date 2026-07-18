@@ -33,7 +33,7 @@ Make sure you have [Node.js](https://nodejs.org/) (v18.17 or later) installed on
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/miskatul-anwar/Elite-FC-LandingPage.git
    cd Elite-FC-Landingpage
    ```
 
